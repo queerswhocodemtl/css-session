@@ -1,0 +1,33 @@
+.red {
+	color: red; /* This is a comment in CSS so this will not be interpreted */
+}
+
+.blue {
+	color: #4286f4;
+}
+
+#whatever {
+	color: green;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#my-id .my-class {
+	text-decoration: underline;
+}
+
+span {
+	color: purple;
+}
+
+.my-container p:nth-child(2) {
+	color: blue;
+}
+
+.my-container p:first-child {
+	color: pink;
+}
+
+/* Insert your answer after this comment */
