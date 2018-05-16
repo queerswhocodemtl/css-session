@@ -62,4 +62,14 @@ In `index.html`, after the last comment add:
 
   * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
+-----
+
+## Second Excercise
+
+
+* Open `index.html` to discover the box structure, you should not change it
+* Open `styles.css` and insert CSS that represents the pictures below
+* Refer to images inside `02_without_bootstrap/README.md`
+
+
 
